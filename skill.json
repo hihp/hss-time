@@ -1,0 +1,11 @@
+{
+   "skillname": "hss-time",
+   "platform": "hss-python",
+   "type": "datetime",
+   "author": "hihp",
+   "repository": "git@github.com:hihp/hss-time.git",
+   "intents": ["hss-time-hihp:getCurrentDate", "hss-time-hihp:getCurrentTime"],
+   "shortDescription": "Gibt das aktuelle Datum oder die aktuelle Uhrzeit aus",
+   "version": "0.9.0",
+   "language": ["de_DE"]
+}
